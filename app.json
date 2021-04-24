@@ -1,0 +1,12 @@
+{
+  "name": "DogeTrack",
+  "displayName": "DogeTrack",
+  "expo": {
+    "name": "DogeTrack",
+    "slug": "DogeTrack",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
